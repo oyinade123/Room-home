@@ -11,7 +11,15 @@ body {
   list-style-type: none;
   font-size: 12px;
   line-height: 1.3rem;
+  width: 100%;
 }
+
+/* .angle {
+  margin-top: 16rem;
+  margin-left: 3rem;
+  text-align: right;
+  background-color: black;
+} */
 
 header {
   background-image: url(./images/mobile-image-hero-1.jpg);
